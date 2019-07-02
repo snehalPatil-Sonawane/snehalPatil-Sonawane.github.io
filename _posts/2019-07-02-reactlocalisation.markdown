@@ -2,7 +2,7 @@
 title:  "React Localisation!"
 subtitle: "Use React localisation corresponding to various business types"
 author: "Snehal Patil"
-avatar: "img/authors/snehal.jpeg"
+avatar: "img/authors/snehal.png"
 image: "img/react.png"
 date:   2019-07-02
 ---
