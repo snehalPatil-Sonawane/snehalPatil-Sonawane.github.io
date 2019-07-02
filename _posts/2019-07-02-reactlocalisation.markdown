@@ -2,7 +2,7 @@
 title:  "React Localisation!"
 subtitle: "Use React localisation corresponding to various business types"
 author: "Snehal Patil"
-avatar: "https://github.com/snehalPatil-Sonawane/snehalPatil-Sonawane.github.io/blob/master/img/authors/snehal.JPEG"
+avatar: "https://github.com/snehalPatil-Sonawane/snehalPatil-Sonawane.github.io/blob/master/img/authors/snehal.jpeg"
 image: "img/react.png"
 date:   2019-07-02
 ---
