@@ -1,4 +1,3 @@
-# snehalpatilblog.github.io
 
 # Eternus-React-Components
 
