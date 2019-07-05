@@ -96,8 +96,12 @@ Hence for languages other than "en" the translation messages are undefined and r
 
 Eventually, you can add the custom resources for other preferred languages for react app and add into the locale data using `addLocaleData()`. The current Locale for the app can changed as per user requirement.
 
+Lets take a look to the output for the above scenario!
 
-If you are looking for source code, you can find it 
-[here](https://snehalpatil-sonawane.github.io/)
+<div style="text-align:center"><img src="img/blogpage/image6.png" /></div>
+<div style="text-align:center"><img src="img/blogpage/image7.png" /></div>
+
+If you are looking for source code, you can find it *[here](https://github.com/snehalPatil-Sonawane/react-localization-intl)*.
+
 
 **Thanks for reading!**
